@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DAEP - E2: Computer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>DAEP</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Autobiography</a>
+      <a href="#">Article</a>
+      <a href="#">Blog</a>
+      <a href="#">Form</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>E2: COMPUTER</h2>
+    <h3>Welcome To My Website!!</h3>
+    <p>This website, which features my projects and lab exercises, encourages you to explore a world of creativity and invention for E2: Computer. Discover, enlighten yourself, and see how creativity and technology are combined everywhere. Let's make tech and coding interesting, entertaining, and challenging!</p>
+    <img src="placeholder.jpg" alt="Placeholder Image">
+
+    <footer>
+      <p>Sorsogon College of Criminology Inc.<br>
+         3928, Rizal St, Sorsogon City, Sorsogon<br>
+         S.Y. 2024-2025<br>
+         Author: Marinel Iyo. Daep<br>
+         Year and Section: Section II-Bravo<br>
+         <a href="mailto:marineldaep4@gmail.com">marineldaep4@gmail.com</a>
+      </p>
+    </footer>
+  </main>
+</body>
+</html>
